@@ -2,7 +2,7 @@
 
 Learn Kotlin Programming from scratch, project based approach.
 
-# Topics to be covered
+# Aspects covered
 - Day1-2 -> Getting Started
 - Day3-4 -> Control Flow and Functions
 - Day5-6 -> Object-Oriented Programming (OOP)
