@@ -8,4 +8,5 @@ Learn Kotlin Programming from scratch, project based approach.
 - Day5-6 -> Object-Oriented Programming (OOP)
 - Day7 -> Exception Handling and Null Safety
 - Day8-9 -> Collections and Lambdas
+- Lastly -> Coroutines
 Conclusion
